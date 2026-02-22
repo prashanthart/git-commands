@@ -24,4 +24,3 @@
 I am doing changes in branch_2
 # reverting
 push to revert
-# test
